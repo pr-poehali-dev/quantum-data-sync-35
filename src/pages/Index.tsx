@@ -3,7 +3,7 @@ import ArcGalleryHero from "@/components/ArcGalleryHero";
 const lessons = [
   {
     title: "Суд над Египетскими богами",
-    image: "/freepik__enhance__98192.png",
+    image: "https://cdn.poehali.dev/projects/d852fa21-a1bb-4bf9-94a7-00d0c984a2fb/bucket/91bf4686-a247-42f0-8ae7-3bbbfc87390e.png",
     url: "https://ykazateli.ispring.ru/app/preview/13fea8b2-2dd6-11f1-b6ef-62753910bf61",
   },
 ];
